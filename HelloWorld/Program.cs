@@ -15,7 +15,7 @@ namespace HelloWorld
                 Console.WriteLine("Hello");
                 Console.WriteLine("World");
                 Console.WriteLine("!!!!!");
-                Console.WriteLine("dgfdfgadg");
+                Console.WriteLine("ｆｄｇｓ");
                 Console.ReadLine();
             }
         }
