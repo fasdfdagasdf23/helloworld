@@ -23,6 +23,6 @@ namespace HelloWorld
 
     class test
     {
-
+        string s = "";
     }
 }
