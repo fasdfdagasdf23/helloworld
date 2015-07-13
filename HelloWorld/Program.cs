@@ -15,9 +15,14 @@ namespace HelloWorld
                 Console.WriteLine("Hello");
                 Console.WriteLine("World");
                 Console.WriteLine("!!!!!");
-                Console.WriteLine("ｆｄｇｓ");
+                Console.WriteLine("d");
                 Console.ReadLine();
             }
         }
+    }
+
+    class test
+    {
+
     }
 }
