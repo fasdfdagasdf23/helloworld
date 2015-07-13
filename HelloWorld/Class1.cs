@@ -8,5 +8,6 @@ namespace HelloWorld
 {
     class Class1
     {
+        string t = "";
     }
 }
